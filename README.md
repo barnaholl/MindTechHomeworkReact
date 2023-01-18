@@ -1,1 +1,1 @@
-# MindTechHomeworkReact
+MindTechHomework
